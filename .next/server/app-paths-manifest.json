@@ -1,0 +1,9 @@
+{
+  "/schedule/page": "app/schedule/page.js",
+  "/booking/page": "app/booking/page.js",
+  "/login/page": "app/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/booking/page": "app/admin/booking/page.js",
+  "/api/fields/route": "app/api/fields/route.js",
+  "/api/schedule/route": "app/api/schedule/route.js"
+}
