@@ -214,3 +214,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - Tailwind CSS untuk styling system
 - MySQL untuk database yang reliable
 - Semua kontributor open source yang telah membantu
+# gorpuribeta
